@@ -26,6 +26,9 @@ a {
   transition: all 0.2s; }
   a:focus, a:hover {
     color: #f05f40; }
+a.custom {
+  color: black;
+}
 
 h1,
 h2,
@@ -34,7 +37,7 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
-
+  
 p {
   font-size: 16px;
   line-height: 1.5;
